@@ -32,10 +32,6 @@
 📍 **UNINTER** -Araçatuba-SP, Brazil
 </details>
 <div>
-  <a href="https://github.com/Gustavo-Pires">
-
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Pires&layout=compact&langs_count=7&theme=react" />
-
   <img align="center" width="148" height="180" src="https://tenor.com/view/galaxy-knowledge-universe-gif-14282398">
 </div>
  <br>
