@@ -28,7 +28,7 @@
 📍 **University São Paulo-USP** - São Paulo, Brazil
   
  - 📖 **Bachelor's degree- Biological Sciences**\
-📆 2021 - 2024\
+📆 2021 - 2025\
 📍 **UNINTER** -Araçatuba-SP, Brazil
 </details>
 <div>
