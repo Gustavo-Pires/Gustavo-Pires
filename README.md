@@ -32,7 +32,6 @@
 📍 **UNINTER** -Araçatuba-SP, Brazil
 </details>
 <div>
-  <img align="center" width="148" height="180" src="https://tenor.com/view/galaxy-knowledge-universe-gif-14282398">
 </div>
  <br>
 <div  align="center"> 
