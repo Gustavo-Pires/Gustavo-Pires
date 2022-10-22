@@ -1,9 +1,8 @@
 <h1> Hi! My name is Gustavo. </h1>
 <p align='center'>
-  Interested in astrocomputing </p>
-  <p align='center'> From 📍Gabriel Monteiro-SP, Brazil.</p>
+  Interested in astrocomputing and programming focused on nuclear physics </p>
   <p align='center'> Living 📍 São Paulo-SP, Brazil.</p>
-  <p align='center'> Astronomy at University of Sao Paulo </p>
+  <p align='center'> Astrophysics student at University of Sao Paulo </p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Pires&show_icons=true&count_private=true&theme=dark" width="350"></a>
