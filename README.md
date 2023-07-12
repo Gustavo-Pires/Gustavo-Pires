@@ -23,7 +23,7 @@
 </p>
 
 <p align='center'>
-🌟Skills<br/><br/>
+🌟Skills <br/><br/>
 <img src=" https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
