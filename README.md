@@ -1,6 +1,6 @@
 <h1> Hi! My name is Gustavo. </h1>
 <p align='center'>
-  Interested in astrocomputing and programming focused on nuclear physics </p>
+  Interested in astrocomputing and programming focused on nuclear physics </p> 
   <p align='center'> Living 📍 São Paulo-SP, Brazil.</p>
   <p align='center'> Astrophysics student at University of Sao Paulo </p>
 
