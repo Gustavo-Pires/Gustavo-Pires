@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently an Astronomy student at the University of Sao Paulo<br>☢️ I research nuclear physics of condensed matter in a nuclear reactor<br>⚡️ I like listening House music
+🔭 I am currently an Astronomy student at the University of Sao Paulo<br>☢️ I research nuclear physics of condensed matter in a nuclear reactor<br>⚡️ I like listening Eletronic, House and Techno music<br> I'm currently learning Java, JavaScript and Type Script<br> 💬 Ask me about astrophysics<br> 📫 How to contact me: gustavo.pb@usp.br<br>
 
 
 ## 🌐 Socials:
