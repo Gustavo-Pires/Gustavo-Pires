@@ -1,6 +1,22 @@
-# 💫 About Me:
-🔭 I am currently an Astronomy student at the University of Sao Paulo<br>☢️ I research nuclear physics of condensed matter in a nuclear reactor<br>⚡️ I like listening Eletronic, House and Techno music<br> I'm currently learning Java, JavaScript and Type Script<br> 💬 Ask me about astrophysics<br> 📫 How to contact me: gustavo.pb@usp.br<br>
+### 💫 Super cool facts about me
 
+- 🌌 I am an Astronomy student at the University of São Paulo (USP)
+- ☢ I researched nuclear physics of condensed matter in a nuclear reactor for 2 years
+- 💻 I mostly use my MacBook Pro M1, but I also have a desktop computer with Windows
+- 🎵 I love listening to House, Electronica, Tech House, Deep House, and Progressive House music
+- 📖 I'm a big fan of writing in LaTeX and enjoy seeing everything nicely formatted
+- 🚗 I love driving, music, movies, concerts, pool, BBQs, and parties (not necessarily in that order)
+- 🎤 I've been to concerts of my favorite artists: The Weeknd, Post Malone, DJ Vintage Culture, DJ Diplo, Swedish House Mafia, among others
+- ⛈️ I was on my way to Tomorrowland, but the edition was canceled due to adverse weather conditions
+- 🚑 Once, I crashed my car, which resulted in a broken nose, a rhinoplasty, and a good comeback story
+- ⭐️I am a member of the Royal Astronomical Society(RAS) and the European Astronomical Society(EAS)
+
+### About Me
+
+📚 I'm currently reading: The Three-Body Problem (by Liu Cixin)  
+🛠️ I'm currently learning Java and databases  
+💬 Ask me about astrophysics  
+📫 How to contact me: gustavo.pb@usp.br  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3_14res) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@3_14res) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/3_14res) 
@@ -11,12 +27,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Gustavo-Pires&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Pires&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Pires&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gustavo-Pires&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gustavo-Pires&icon=0&color=0)](https://visitcount.itsvg.in)
