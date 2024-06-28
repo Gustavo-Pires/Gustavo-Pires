@@ -1,7 +1,15 @@
+### About Me
+
+🌌 I am an Astronomy student at the University of São Paulo (USP)
+ ☢ I researched nuclear physics of condensed matter in a nuclear reactor for 2 years
+📚 I'm currently reading: The Three-Body Problem (by Liu Cixin)  
+🛠️ I'm currently learning Java and databases  
+💬 Ask me about astrophysics  
+📫 How to contact me: gustavo.pb@usp.br  
+
+
 ### 💫 Super cool facts about me
 
-- 🌌 I am an Astronomy student at the University of São Paulo (USP)
-- ☢ I researched nuclear physics of condensed matter in a nuclear reactor for 2 years
 - 💻 I mostly use my MacBook Pro M1, but I also have a desktop computer with Windows
 - 🎵 I love listening to House, Electronica, Tech House, Deep House, and Progressive House music
 - 📖 I'm a big fan of writing in LaTeX and enjoy seeing everything nicely formatted
@@ -9,15 +17,13 @@
 - 🎤 I've been to concerts of my favorite artists: The Weeknd, Post Malone, DJ Vintage Culture, DJ Diplo, Swedish House Mafia, among others
 - ⛈️ I was on my way to Tomorrowland, but the edition was canceled due to adverse weather conditions
 - 🚑 Once, I crashed my car, which resulted in a broken nose, a rhinoplasty, and a good comeback story
-- ⭐️I am a member of the Royal Astronomical Society(RAS) and the European Astronomical Society(EAS)
+- ⭐️ I am a member of the Royal Astronomical Society(RAS) and the European Astronomical Society(EAS)
 - 🦐 My favorite food is shrimp🍤
+- 🏛️ My favorite philosophers are Friedrich Nietzsche and Niccolò Machiavelli
+- 📚 My favorite book is Hell, the first part of Dante Alighieri's "Divine Comedy"
+- 🐍 My favorite programming language is Python
 
-### About Me
 
-📚 I'm currently reading: The Three-Body Problem (by Liu Cixin)  
-🛠️ I'm currently learning Java and databases  
-💬 Ask me about astrophysics  
-📫 How to contact me: gustavo.pb@usp.br  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3_14res) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@3_14res) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/3_14res) 
