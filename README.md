@@ -1,9 +1,13 @@
-### About Me
+### ✨About Me
 
 🌌 I am an Astronomy student at the University of São Paulo (USP)
- ☢ I researched nuclear physics of condensed matter in a nuclear reactor for 2 years
+
+☢️ I researched nuclear physics of condensed matter in a nuclear reactor for 2 years
+
 📚 I'm currently reading: The Three-Body Problem (by Liu Cixin)  
+
 🛠️ I'm currently learning Java and databases  
+
 💬 Ask me about astrophysics  
 📫 How to contact me: gustavo.pb@usp.br  
 
@@ -14,10 +18,10 @@
 - 🎵 I love listening to House, Electronica, Tech House, Deep House, and Progressive House music
 - 📖 I'm a big fan of writing in LaTeX and enjoy seeing everything nicely formatted
 - 🚗 I love driving, music, movies, concerts, pool, BBQs, and parties (not necessarily in that order)
-- 🎤 I've been to concerts of my favorite artists: The Weeknd, Post Malone, DJ Vintage Culture, DJ Diplo, Swedish House Mafia, among others
+- 🎤 I've been to shows of my favorite artists: The Weeknd, Post Malone, DJ Vintage Culture, DJ Diplo, Swedish House Mafia...
 - ⛈️ I was on my way to Tomorrowland, but the edition was canceled due to adverse weather conditions
 - 🚑 Once, I crashed my car, which resulted in a broken nose, a rhinoplasty, and a good comeback story
-- ⭐️ I am a member of the Royal Astronomical Society(RAS) and the European Astronomical Society(EAS)
+- ⭐️ I am a member of the Royal Astronomical Society(RAS) and the European Astronomical Society(EAS)🔭
 - 🦐 My favorite food is shrimp🍤
 - 🏛️ My favorite philosophers are Friedrich Nietzsche and Niccolò Machiavelli
 - 📚 My favorite book is Hell, the first part of Dante Alighieri's "Divine Comedy"
