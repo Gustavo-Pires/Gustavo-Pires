@@ -27,11 +27,6 @@
 - 📚 My favorite book is Hell, the first part of Dante Alighieri's "Divine Comedy"
 - 🐍 My favorite programming language is **Python**
 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3_14res) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@3_14res) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/3_14res) 
-
 # 💻 Tech Stack:
 
 ## 📚 Frameworks, Platforms and Libraries
