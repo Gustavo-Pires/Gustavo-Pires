@@ -20,7 +20,6 @@
 - 🚗 I love driving, music, movies, concerts, pool, BBQs, and parties (not necessarily in that order)
 - 🎤 I've been to shows of my favorite artists: The Weeknd, Post Malone, DJ Vintage Culture, DJ Diplo, Swedish House Mafia...
 - ⛈️ I was on my way to **Tomorrowland**, but the edition was canceled due to adverse weather conditions
-- 🚑 Once, I crashed my car, which resulted in a broken nose, a rhinoplasty, and a good comeback story
 - ⭐️ I am a member of the Royal Astronomical Society(**RAS**) and the European Astronomical Society(**EAS**)🔭
 - 🦐 My favorite food is **shrimp**🍤
 - 🏛️ My favorite philosophers are Friedrich Nietzsche and Niccolò Machiavelli
