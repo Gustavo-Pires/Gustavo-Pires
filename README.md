@@ -6,7 +6,7 @@
 - 🛠️ I'm currently learning **Java** and **databases**  
 - 🔭 I’m currently working on **Personal skills**
 - 🌱 I’m currently learning **Java and databases**
-- 👯 I’m looking to collaborate on **astrophysics and nuclear physics**
+- 👯 I’m looking to collaborate on **astrophysics and nuclear physics** 
 - 📫 How to reach me **gustavo.pb@usp.br**
 - 💬 Ask me about astrophysics  
 
