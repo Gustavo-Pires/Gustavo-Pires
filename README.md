@@ -3,7 +3,7 @@
 - 🌌 I am an **Astrophysics** student at the University of São Paulo (**USP**)
 - ☢️ I researched **nuclear physic**s of condensed matter in a **nuclear reactor**(**IEA-R1**) for 2,5 years
 - 📚 I'm currently reading: **The Three-Body Problem** (by Liu Cixin)  
-- 🛠️ I'm currently learning **Java** and **databases**  
+- 🛠️ I'm currently learning **Java** and **databases** 
 - 🔭 I’m currently working on **Personal skills**
 - 🌱 I’m currently learning **Java and databases**
 - 👯 I’m looking to collaborate on **astrophysics and nuclear physics** 
