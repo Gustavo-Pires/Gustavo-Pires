@@ -1,14 +1,14 @@
 ### ✨About Me
 
-- 🌌 I am an **Astrophysics** student at the University of São Paulo (**USP**)
-- ☢️ I researched **nuclear physic**s of condensed matter in a **nuclear reactor**(**IEA-R1**) for 2,5 years
-- 📚 I'm currently reading: **The Three-Body Problem** (by Liu Cixin)  
-- 🛠️ I'm currently learning **Java** and **databases** 
-- 🔭 I’m currently working on **Personal skills**
-- 🌱 I’m currently learning **Java and databases**
-- 👯 I’m looking to collaborate on **astrophysics and nuclear physics** 
-- 📫 How to reach me **gustavo.pb@usp.br**
-- 💬 Ask me about astrophysics  
+- ⚖️ I am currently studying **Law**
+- 🌌 I was an **Astrophysics** student at the University of São Paulo (**USP**)
+- ☢️ I researched **nuclear physics** of condensed matter in a **nuclear reactor** (**IEA-R1**) for over 2 years
+- 📚 I am currently reading: **The Intelligence Trap** (by David W. Robson)
+- 🛠️ I am currently doing an internship **Certifications and Patents** at **Solinftec**
+-  🔭 I am currently developing more **Soft Skills**
+-  🌱 I am currently learning **Swift**
+-  👯 I enjoy collaborating in **astrophysics, nuclear physics and programming**
+-  📫 How to contact me: **gustavo.pb@usp.br**
 
 
 
