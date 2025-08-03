@@ -6,7 +6,6 @@
 - 📚 I am currently reading: **The Intelligence Trap** (by David W. Robson)
 - 🛠️ I am currently doing an internship **Certifications and Patents** at **Solinftec**
 -  🔭 I am currently developing more **Soft Skills**
--  🌱 I am currently learning **Swift**
 -  👯 I enjoy collaborating in **astrophysics, nuclear physics and programming**
 -  📫 How to contact me: **gustavo.pb@usp.br**
 
@@ -14,14 +13,11 @@
 
 ### 💫 Super cool facts about me
 
-- 💻 I mostly use my **MacBook Pro M1**, but I also have a desktop computer with Windows
 - 🎵 I love listening to House, Electronica, Tech House, Deep House, and Progressive House music
 - 📖 I'm a big fan of writing in LaTeX and enjoy seeing everything nicely formatted
-- 🚗 I love driving, music, movies, concerts, pool, BBQs, and parties (not necessarily in that order)
 - 🎤 I've been to shows of my favorite artists: The Weeknd, Post Malone, DJ Vintage Culture, DJ Diplo, Swedish House Mafia...
 - ⛈️ I was on my way to **Tomorrowland**, but the edition was canceled due to adverse weather conditions
 - ⭐️ I am a member of the Royal Astronomical Society(**RAS**) and the European Astronomical Society(**EAS**)🔭
-- 🦐 My favorite food is **shrimp**🍤
 - 🏛️ My favorite philosophers are Friedrich Nietzsche and Niccolò Machiavelli
 - 📚 My favorite book is Hell, the first part of Dante Alighieri's "Divine Comedy"
 - 🐍 My favorite programming language is **Python**
